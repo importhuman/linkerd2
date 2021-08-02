@@ -42,7 +42,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.14.8",
-    "@babel/eslint-parser": "^7.14.7",
+    "@babel/eslint-parser": "^7.14.9",
     "@babel/plugin-proposal-class-properties": "^7.13.0",
     "@babel/preset-env": "^7.14.8",
     "@babel/preset-react": "^7.14.5",
@@ -85,7 +85,7 @@
     "style-loader": "^3.2.1",
     "url-loader": "^4.1.1",
     "wdio-chromedriver-service": "6.0.4",
-    "webdriverio": "7.8.0",
+    "webdriverio": "7.9.0",
     "webpack": "^5.47.1",
     "webpack-bundle-analyzer": "4.4.2",
     "webpack-cli": "4.7.2",
